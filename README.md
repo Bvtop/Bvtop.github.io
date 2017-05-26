@@ -1,7 +1,8 @@
 ### Welcome to my github
 
-##About me   
-Name:孙泽宇   Sex:男
+## About me   
+* Name:孙泽宇   
+* Sex:男
 
 ### Markdown
 
