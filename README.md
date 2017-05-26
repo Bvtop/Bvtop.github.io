@@ -7,7 +7,8 @@
 * school:哈尔滨理工大学
 * Graduation time:2018
 * Education:本科
-* Post intention:web前端开发    
+* Post intention:web前端开发   
+github用的时间比较短，不过以后会常用的。 
 [welcome to my github](https://github.com/Bvtop)
 
 ### My Own Blog   
