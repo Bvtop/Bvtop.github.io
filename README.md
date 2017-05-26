@@ -25,3 +25,9 @@
 2.jQuery实现的随机变色   
 3.HTML+CSS简单页面布局   
 4.模仿电商平台的放大镜特效
+
+### 我与前端
+   我常使用的编译器:   
+*   Sublime Text3   
+*   Visual Studio Code
+
