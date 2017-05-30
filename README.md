@@ -31,6 +31,7 @@ github用的时间比较短，不过以后会常用的。
 ### 我与前端
    我常使用的编译器:   
 *   Sublime Text3   
-*   Visual Studio Code
+*   Visual Studio Code      
+*   Notepad++
 
 
